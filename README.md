@@ -1,2 +1,4 @@
 # code-in
-principle of design
+principle of design  
+
+对各技术的拆解
